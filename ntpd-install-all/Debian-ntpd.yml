@@ -1,4 +1,0 @@
-- name: Install ntpd on Debian
-  apt:
-    name: ntpd
-    state: present
